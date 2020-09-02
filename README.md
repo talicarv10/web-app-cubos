@@ -1,6 +1,6 @@
 ### Para rodar o projeto você precisará:
 
-Ter o Node.js instalado em sua máquina.
+Ter o Node.js e o Git instalado em sua máquina.
 
 ### Rodando o projeto
 
