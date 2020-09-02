@@ -1,0 +1,36 @@
+.cabecalho {
+  background: rgb(0, 99, 147);
+  padding: 1px;
+}
+
+.titulo-cabecalho {
+  color: rgb(0, 201, 211);
+  text-align: center;
+  font-size: 40px;
+  font-weight: 100;
+}
+
+.textoBusca {
+  margin-bottom: 20px;
+  background-color: rgb(235, 235, 235);
+  border-radius: 25px;
+  height: 45px;
+  width: 80%;
+  outline: none;
+  border: none;
+  padding: 0 30px;
+  color: rgb(143, 181, 197);
+  font-size: 20px;
+}
+
+::placeholder {
+  color: rgb(143, 181, 197);
+  font-size: 20px;
+}
+
+.container {
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 50px 0;
+  text-align: center;
+}
